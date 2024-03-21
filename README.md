@@ -51,4 +51,4 @@ The Superstore Sales dataset comprises (9800 rows) a wealth of information, incl
 2. Open and explore the Jupyter Notebook for detailed analysis.
 
 ## License:
-This project is licensed under the [MIT License](lICENSE).
+This project is licensed under the [MIT License](LICENSE).
